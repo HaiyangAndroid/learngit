@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple and merge.
 Changes from dev branch.
 Test stash command.
-Test team develop.
+Test team develop from root.
